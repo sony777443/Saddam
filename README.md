@@ -1,3 +1,3 @@
 # Saddam
-Bot's
+
 тгбот
